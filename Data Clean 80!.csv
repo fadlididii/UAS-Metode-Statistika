@@ -1,0 +1,81 @@
+Timestamp,Email Address,Nama,Harga tiket pulang ke tempat tinggal (contoh : 750000),Transportasi yang dipilih untuk pulang,Jarak dari tempat tinggal di Surabaya ke tempat tujuan (dalam Km),Waktu tempuh perjalanan (dalam Jam),Musim keberangkatan,Kelas transportasi yang digunakan,Waktu Pembelian Tiket
+17/05/2023 14:33:00,i.made.dharma.satya-2022@ftmm.unair.ac.id,Made,600000,Bus,807,10,Workday,Eksekutif/Bisnis,2-4 Minggu Sebelum
+17/05/2023 14:34:04,muhammad.asafrie.reza-2022@ftmm.unair.ac.id,Reza,700000,Pesawat,21,1,Holiday,Ekonomi,2-4 Minggu Sebelum
+17/05/2023 14:45:53,shofia.ishma.najiyya-2021@ftmm.unair.ac.id,Shofia Ishma,15000,Kereta,164,4,Holiday,Ekonomi,< 1 Minggu Sebelum
+17/05/2023 14:46:29,fikri.arif.abdillah-2020@ftmm.unair.ac.id,Fikri Arif Abdillah,285000,Kereta,750,12,Holiday,Ekonomi,2-4 Minggu Sebelum
+17/05/2023 14:57:38,hanan.nabilah-2022@ftmm.unair.ac.id,Hanan,210000,Kereta,325,4,Holiday,Eksekutif/Bisnis,2-4 Minggu Sebelum
+17/05/2023 14:59:40,dhafina.nadhira-2021@ftmm.unair.ac.id,dhafina,700000,Pesawat,750,1.25,Holiday,Ekonomi,2-4 Minggu Sebelum
+17/05/2023 15:01:58,darrell.nabhan.sungkar-2022@ftmm.unair.ac.id,Darrell Nabhan ,700000,Kereta,700,11,Holiday,Eksekutif/Bisnis,< 1 Minggu Sebelum
+17/05/2023 15:04:46,reinhart.ananda.siswadi-2022@ftmm.unair.ac.id,reinhart ,800000,Pesawat,780,1.5,Holiday,Ekonomi,2-4 Minggu Sebelum
+17/05/2023 15:06:52,yusuf.eka.maulana-2022@ftmm.unair.ac.id,Yusuf,88000,Kereta,225,4,Workday,Ekonomi,< 1 Minggu Sebelum
+17/05/2023 15:19:38,adi.jalu.pratomo-2022@ftmm.unair.ac.id,Adi Jalu Pratomo ,88000,Kereta,200,6,Holiday,Ekonomi,< 1 Minggu Sebelum
+17/05/2023 15:27:23,rashiqa.dewi.nariswari-2022@ftmm.unair.ac.id,shiqa,185000,Kereta,263,4,Holiday,Ekonomi,< 1 Minggu Sebelum
+17/05/2023 15:40:52,sinta.dian.monica-2022@ftmm.unair.ac.id,Sinta Dian Monica ,15000,Kereta,189,4,Holiday,Ekonomi,< 1 Minggu Sebelum
+17/05/2023 15:44:15,lucia.bellanie.debra-2021@ftmm.unair.ac.id,Bella,600000,Pesawat,420,1,Workday,Ekonomi,< 1 Minggu Sebelum
+17/05/2023 16:24:03,devina.salsabila-2022@ftmm.unair.ac.id,devina,1200000,Pesawat,800,1.5,Holiday,Ekonomi,2-4 Minggu Sebelum
+17/05/2023 16:39:59,angga.yanto.pratama-2020@ftmm.unair.ac.id,Angga Iryanto Pratama,12000,Kereta,76,2,Holiday,Ekonomi,< 1 Minggu Sebelum
+17/05/2023 16:43:54,ditha.meiga.zakaria-2022@ftmm.unair.ac.id,Ditha Meiga Zakaria,2000000,Pesawat,2228,4,Holiday,Ekonomi,2-4 Minggu Sebelum
+17/05/2023 17:42:12,aufa.fahmi.syahman-2022@ftmm.unair.ac.id,Aufa Fahmi ,15000,Kereta,145,4,Holiday,Ekonomi,< 1 Minggu Sebelum
+17/05/2023 17:42:31,brilliant.prigar.ednesto-2022@ftmm.unair.ac.id,Brilliant Prigar Ednesto ,88000,Kereta,300,5.5,Holiday,Ekonomi,< 1 Minggu Sebelum
+17/05/2023 17:45:50,moreno.achmad.musadat-2021@ftmm.unair.ac.id,Moreno Achmad Musadat,315000,Kereta,800,12,Holiday,Ekonomi,> 1 Bulan Sebelum
+17/05/2023 17:55:31,meri.agustina-2022@ftmm.unair.ac.id,Me,15000,Kereta,80,5,Holiday,Ekonomi,< 1 Minggu Sebelum
+17/05/2023 17:55:41,lemuel.horas-2022@ftmm.unair.ac.id,Lemuel Horas,700000,Kereta,800,8,Holiday,Eksekutif/Bisnis,2-4 Minggu Sebelum
+17/05/2023 18:08:36,olga.kabsyah.ramadhani-2022@ftmm.unair.ac.id,Olga Kabsyah Ramadhani,710000,Kereta,807.6,9,Workday,Eksekutif/Bisnis,> 1 Bulan Sebelum
+17/05/2023 18:23:56,zoen.yokhanan.sianipar-2022@ftmm.unair.ac.id,Zoen,1500000,Pesawat,1351,2,Holiday,Ekonomi,2-4 Minggu Sebelum
+17/05/2023 19:37:04,aqila.hana.winanggoro-2022@ftmm.unair.ac.id,hana,550000,Kereta,750,10,Holiday,Eksekutif/Bisnis,2-4 Minggu Sebelum
+17/05/2023 19:38:55,firman.hasibuan-2022@ftmm.unair.ac.id,Firman Hasibuan,2000000,Pesawat,2600,4,Holiday,Ekonomi,2-4 Minggu Sebelum
+17/05/2023 20:11:43,arkan.syafiq.attaqy-2022@ftmm.unair.ac.id,arkan,950000,Pesawat,1339,3,Holiday,Ekonomi,2-4 Minggu Sebelum
+17/05/2023 20:29:31,fauziah.hamidah.al-2022@ftmm.unair.ac.id,pau,550000,Kereta,676,10.5,Holiday,Eksekutif/Bisnis,2-4 Minggu Sebelum
+17/05/2023 20:34:24,hafizah.mufida.novrizal-2022@ftmm.unair.ac.id,Fida,400000,Kereta,782,13,Workday,Ekonomi,< 1 Minggu Sebelum
+17/05/2023 20:46:40,benedikta.anindya.bernadi-2020@ftmm.unair.ac.id,Anin,95000,Kereta,350,4,Workday,Ekonomi,< 1 Minggu Sebelum
+17/05/2023 21:27:40,attala.omar.kareem-2022@ftmm.unair.ac.id,Attala Omar Kareem,750000,Pesawat,798,1,Holiday,Ekonomi,> 1 Bulan Sebelum
+17/05/2023 21:52:37,rexwald.kamasean.kabanga-2022@ftmm.unair.ac.id,rexy,650000,Kereta,780,10,Holiday,Eksekutif/Bisnis,< 1 Minggu Sebelum
+18/05/2023 0:08:21,kyla.devanda.michelle-2022@ftmm.unair.ac.id,Kyla,1200000,Pesawat,1300,2,Holiday,Ekonomi,< 1 Minggu Sebelum
+18/05/2023 0:15:59,moh.okka.oamrrosi-2022@ftmm.unair.ac.id,okka,720000,Pesawat,216,2,Holiday,Ekonomi,< 1 Minggu Sebelum
+18/05/2023 9:06:20,muhammad.arief.mulyawan-2022@ftmm.unair.ac.id,Arif ,800000,Pesawat,400,1,Holiday,Ekonomi,< 1 Minggu Sebelum
+18/05/2023 11:03:16,riska.lathifah-2022@ftmm.unair.ac.id,Riska Lathifah,250000,Bus,252,8,Holiday,Ekonomi,< 1 Minggu Sebelum
+18/05/2023 12:16:28,shiba.salsabilla-2022@ftmm.unair.ac.id,shiba,2000000,Pesawat,1934,4,Holiday,Ekonomi,2-4 Minggu Sebelum
+18/05/2023 12:47:26,naya.kusumahayati.rachmi-2022@ftmm.unair.ac.id,naya,600000,Kereta,789,10,Holiday,Eksekutif/Bisnis,> 1 Bulan Sebelum
+18/05/2023 13:06:22,sumayyah.asysyahidah-2022@ftmm.unair.ac.id,Ayya,1150000,Pesawat,1335,2.1,Holiday,Ekonomi,2-4 Minggu Sebelum
+18/05/2023 13:15:48,nafisahika.putri.herra-2022@ftmm.unair.ac.id,Nafisahika Putri Herra ,270000,Kereta,464,8,Holiday,Ekonomi,< 1 Minggu Sebelum
+18/05/2023 13:27:17,haryo.bismo.wicaksono-2022@ftmm.unair.ac.id,Haryo Bismo Wicaksono,600000,Kereta,758,8.5,Holiday,Eksekutif/Bisnis,2-4 Minggu Sebelum
+18/05/2023 13:39:16,nauval.syahferi-2022@ftmm.unair.ac.id,Nauval Syahferi ,1522000,Pesawat,2697,2,Holiday,Ekonomi,> 1 Bulan Sebelum
+18/05/2023 14:03:29,verdyan.farrel.biliarsa-2022@ftmm.unair.ac.id,farrel,15000,Kereta,129,4,Holiday,Ekonomi,< 1 Minggu Sebelum
+18/05/2023 15:15:51,riko.handono-2022@ftmm.unair.ac.id,rikohandono,300000,Kereta,800,11,Workday,Eksekutif/Bisnis,2-4 Minggu Sebelum
+18/05/2023 16:00:11,nisrina.khairunisa-2022@ftmm.unair.ac.id,Nisrina Khairunisa,700000,Kereta,600,7,Holiday,Eksekutif/Bisnis,2-4 Minggu Sebelum
+18/05/2023 16:52:26,octaviani.putri.al-2022@ftmm.unair.ac.id,octa,315000,Kereta,750,11,Holiday,Ekonomi,2-4 Minggu Sebelum
+18/05/2023 17:02:36,najla.dhia.rusydi-2022@ftmm.unair.ac.id,Nala,750000,Kereta,125,2,Holiday,Eksekutif/Bisnis,< 1 Minggu Sebelum
+18/05/2023 17:11:53,muhammad.axel.syahputra-2020@ftmm.unair.ac.id,Axel,50000,Kereta,81,2,Holiday,Ekonomi,< 1 Minggu Sebelum
+19/05/2023 9:57:45,romero.rachmat.musadat-2022@ftmm.unair.ac.id,Romero Rachmat Musadat ,330000,Kereta,500,12,Holiday,Eksekutif/Bisnis,2-4 Minggu Sebelum
+19/05/2023 9:58:25,dhiwa.abqariyyah-2022@ftmm.unair.ac.id,Dhiwa ,700000,Kereta,800,9,Holiday,Eksekutif/Bisnis,2-4 Minggu Sebelum
+19/05/2023 10:01:26,andreas.hen.herwanto-2022@ftmm.unair.ac.id,Andre,1500000,Pesawat,1425.3,2,Holiday,Ekonomi,< 1 Minggu Sebelum
+19/05/2023 10:02:27,herman.effendi-2022@ftmm.unair.ac.id,Herman,88000,Kereta,260,6,Holiday,Ekonomi,> 1 Bulan Sebelum
+19/05/2023 10:06:48,elzandi.fan.zikra-2022@ftmm.unair.ac.id,Elzandi Irfan Zikra,750000,Pesawat,850,1,Holiday,Ekonomi,< 1 Minggu Sebelum
+19/05/2023 10:06:55,rizal.dwi.prasetyo-2022@ftmm.unair.ac.id,Rizal,15000,Kereta,128,4.5,Holiday,Ekonomi,< 1 Minggu Sebelum
+19/05/2023 10:16:52,muhamad.farhan.wirakusuma-2020@ftmm.unair.ac.id,Muhamad Farhan Wirakusuma,700000,Pesawat,800,1.5,Holiday,Ekonomi,2-4 Minggu Sebelum
+19/05/2023 10:18:34,abdullah.muhammad.idris-2020@ftmm.unair.ac.id,Abdullah Muhammad Idris,1200000,Pesawat,825.9,1.5,Holiday,Ekonomi,2-4 Minggu Sebelum
+19/05/2023 10:19:19,komang.budi.anggara-2020@ftmm.unair.ac.id,Komang Budi A.,850000,Bus,1094,16,Holiday,Eksekutif/Bisnis,2-4 Minggu Sebelum
+19/05/2023 10:21:19,fadhlurrahman.althaf.rapiyadi-2022@ftmm.unair.ac.id,Fadhlurrahman Althaf R,400000,Bus,780,11,Holiday,Eksekutif/Bisnis,2-4 Minggu Sebelum
+19/05/2023 10:21:44,salma.ayu.hanifah-2022@ftmm.unair.ac.id,Salma,12000,Kereta,102,2.5,Holiday,Ekonomi,< 1 Minggu Sebelum
+19/05/2023 10:54:29,hanan.nabilah-2022@ftmm.unair.ac.id,Hanan,280000,Kereta,324,4,Holiday,Eksekutif/Bisnis,2-4 Minggu Sebelum
+19/05/2023 11:36:46,putu.angga.kurniawan-2022@ftmm.unair.ac.id,Putu Angga Kurniawan,870000,Pesawat,794,2,Holiday,Ekonomi,< 1 Minggu Sebelum
+19/05/2023 11:45:28,christeigen.theodore.suhalim-2021@ftmm.unair.ac.id,Christeigen Theodore Suhalim,450000,Kereta,780.4,11,Holiday,Eksekutif/Bisnis,2-4 Minggu Sebelum
+19/05/2023 11:56:43,ilmiawan.taufan.al-2022@ftmm.unair.ac.id,Ilmiawan Taufan Al Faris,12000,Kereta,90,2.5,Workday,Ekonomi,< 1 Minggu Sebelum
+19/05/2023 12:13:03,brilliant.prigar.ednesto-2022@ftmm.unair.ac.id,Brilliant Prigar Ednesto ,88000,Kereta,300,5.5,Holiday,Ekonomi,< 1 Minggu Sebelum
+19/05/2023 12:23:57,amira.naila.zanira-2022@ftmm.unair.ac.id,Amira Naila Zanira,1400000,Pesawat,782,1.5,Holiday,Ekonomi,< 1 Minggu Sebelum
+19/05/2023 12:54:16,jovita.suryo.angeline-2022@ftmm.unair.ac.id,Jovita S,350000,Kereta,504,7.5,Workday,Eksekutif/Bisnis,< 1 Minggu Sebelum
+19/05/2023 15:33:07,reza.faqih.al.islami-2021@ftmm.unair.ac.id,Reza Faqih Al'islami,1500000,Pesawat,1075,2,Workday,Ekonomi,< 1 Minggu Sebelum
+19/05/2023 15:51:47,ramadhan.eko.saputra-2022@ftmm.unair.ac.id,ramadhan,700000,Kereta,670,11,Holiday,Eksekutif/Bisnis,2-4 Minggu Sebelum
+19/05/2023 17:26:46,hadyan.adira.perdana-2022@ftmm.unair.ac.id,Iyan,500000,Kereta,330,4,Workday,Eksekutif/Bisnis,< 1 Minggu Sebelum
+19/05/2023 17:37:07,cindi.nirmala.nadia-2020@ftmm.unair.ac.id,Cindi Nirmala Nadia,1000000,Pesawat,831,1.5,Holiday,Ekonomi,< 1 Minggu Sebelum
+19/05/2023 18:08:18,putu.aryasuta.tirta-2022@ftmm.unair.ac.id,Arya,700000,Pesawat,432,1,Holiday,Ekonomi,2-4 Minggu Sebelum
+19/05/2023 18:33:14,wanda.desi.rahmawati-2022@ftmm.unair.ac.id,wanda,15000,Kereta,105,4,Holiday,Ekonomi,< 1 Minggu Sebelum
+19/05/2023 18:38:24,cendekia.muhammad.anderi-2022@ftmm.unair.ac.id,Cendekia Muhammad Anderi,990000,Pesawat,483,1.5,Holiday,Ekonomi,< 1 Minggu Sebelum
+19/05/2023 18:42:57,naufal.afif-2022@ftmm.unair.ac.id,Naufal afif,400000,Kereta,600,11,Holiday,Ekonomi,< 1 Minggu Sebelum
+19/05/2023 20:12:16,zhiddan.aditya.mahardika-2022@ftmm.unair.ac.id,zhiddan,12000,Kereta,130,3,Holiday,Ekonomi,< 1 Minggu Sebelum
+19/05/2023 22:21:12,dhia.alif.tajriyaani-2021@ftmm.unair.ac.id,Azhy,65000,Kereta,101,2,Workday,Eksekutif/Bisnis,< 1 Minggu Sebelum
+20/05/2023 11:22:02,hanifa.fakhriza.yaroh-2021@ftmm.unair.ac.id,Hani,6000,Kereta,54.5,1.28,Holiday,Ekonomi,< 1 Minggu Sebelum
+20/05/2023 12:52:28,fadli.muhammad-2022@ftmm.unair.ac.id,fadli,485000,Kereta,783,9,Workday,Eksekutif/Bisnis,> 1 Bulan Sebelum
+20/05/2023 15:09:43,muhammad.mahdy.yan-2021@ftmm.unair.ac.id,Muhammad Mahdy Yandra,1500000,Pesawat,2045,3,Holiday,Ekonomi,2-4 Minggu Sebelum
+20/05/2023 16:45:24,nismara.andini-2022@ftmm.unair.ac.id,Nismara Andini,12000,Kereta,96,2,Workday,Ekonomi,< 1 Minggu Sebelum
+20/05/2023 16:45:29,manda.diana.putri-2022@ftmm.unair.ac.id,mandu,745000,Pesawat,787,1.5,Holiday,Ekonomi,< 1 Minggu Sebelum
