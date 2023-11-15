@@ -4,6 +4,8 @@ Language for this project : Bahasa Indonesia
 
 __Collaboration project__
 
+__The project report is contained in the file: KELOMPOK K_UAS Metode Statistika__
+
 ## Anggota Kelompok
 - __Fadli Muhammad (myself)__
 - Manda Diana Putri
